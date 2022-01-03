@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo Gallery by Austin Doan</string>
+    <string name="card_imageview_description">Image Description</string>
+    <string name="card_details_description">More details</string>
+    <string name="menu_item_search">Search by Photographer</string>
+    <string name="card_heading_textview">"Author: "</string>
+    <string name="menu_item_back">Back</string>
+    <string name="menu_item_refresh">Refresh</string>
+    <string name="card_image_description_textview">Image Description</string>
+</resources>
